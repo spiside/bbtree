@@ -12,7 +12,7 @@
 # BBTree
 ### A Black and Blue Right Leaning Tree
 
-**BBTree** is a Golang implemented right-leaning variant on the [2014 paper](https://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf) by Roger Sedgewick on left-leaning red black trees.
+**BBTree** is a Golang implemented right-leaning variant of the [2014 paper](https://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf) by Roger Sedgewick on left-leaning red black trees.
 
 ## Why?
 
